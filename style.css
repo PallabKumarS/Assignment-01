@@ -7,7 +7,6 @@ body{
 /* header here  */
 header{
     background: rgba(229, 84, 115, 0.10);
-    width: 1920px;
     margin-bottom: 150px;
 }
 .h-cont{
@@ -131,7 +130,6 @@ header{
 .s-sale{
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    width: 1920px;
     height: 620px;
     margin-bottom: 120px;
 }
@@ -254,7 +252,6 @@ header{
 /* footer here  */
 .ft-cont{
     background: #111010;
-    width: 1920px;
     height: 449px;
     text-align: center;
 }
