@@ -136,7 +136,7 @@ header{
 .sale-cont{
     display: flex;
     justify-content: space-around;
-    padding: 0px 370px;
+    padding: 0px 360px;
     align-items: center;
 }
 .sale-info {
