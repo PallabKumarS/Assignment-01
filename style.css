@@ -4,6 +4,13 @@
 body{
     font-family:'Open Sans',sans-serif;
 }
+.cursor:hover {
+    cursor: pointer;
+}
+.grab {
+    cursor: -webkit-grab;
+    cursor: grab;
+}
 /* header here  */
 header{
     background: rgba(229, 84, 115, 0.10);
